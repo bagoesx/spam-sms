@@ -1,7 +1,4 @@
 <?php 
-/*
-coded by bagoes
-*/
 error_reporting(0);
 function copyright(){
 	/*
