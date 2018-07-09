@@ -6,6 +6,7 @@ function copyright(){
 	Indonesian Freedom Security
 	Don't remove this copyright please !
 	*/
+	system('clear');
 	echo "
          /\  ________.__                    __   
         / / /   __   \  |__   ____  _______/  |_ 
